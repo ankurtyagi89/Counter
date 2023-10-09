@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.decr:hover {
+    color: white;
+    background-color: black;
+    opacity: 90%;
+    transition: all 0.4s ease-in;
+}
+
+.incr:hover {
+    background-color: black;
+    color: white;
+    opacity: 90%;
+    transition: all 0.4s ease-in;
+}
+
+.reset:hover {
+    background-color: black;
+    color: white;
+    opacity: 90%;
+    transition: all 0.4s ease-in;
+}
+/* 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: hsl(210, 36%, 96%);
+}
+
+.Counter {
+    width: 50%;
+    height: 50%;
+    gap: 0.9rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   font-weight: bold;
+}
+
+.ctr {
+    font-size: 4rem;
+    letter-spacing: 0.2rem;
+    font-family: "Roboto", sans-serif;
+    color:  hsl(209, 61%, 16%);
+}
+
+.digit {
+    font-size: 6rem;
+    font-family: "Open Sans", sans-serif;
+    opacity: 90%;
+}
+
+.button {
+    display: flex;
+    gap: 1rem;
+}
+
+.decr {
+    letter-spacing: 0.2rem;
+    padding: 0.2rem 0.5rem;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.incr {
+    letter-spacing: 0.2rem;
+    padding: 0.2rem 0.5rem;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.reset {
+    padding: 0.4rem 1rem;
+    letter-spacing: 0.2rem;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+} */
